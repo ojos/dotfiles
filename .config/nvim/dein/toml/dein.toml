@@ -1,0 +1,11 @@
+[[plugins]]
+repo = 'itchyny/lightline.vim'
+
+[[plugins]]
+repo = 'Shougo/denite.nvim'
+
+[[plugins]]
+repo = "Shougo/deoplete.nvim"
+
+[[plugins]]
+repo = "dracula/vim"

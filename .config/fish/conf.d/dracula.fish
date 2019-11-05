@@ -1,0 +1,1 @@
+/home/aizu/.ghq/github.com/dracula/fish/dracula.fish
